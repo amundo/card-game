@@ -1,0 +1,314 @@
+[
+  {
+    "suit": "clubs",
+    "rank": "2",
+    "unicodeSymbol": "♣",
+    "url": "clubs/2c.svg"
+  },
+  {
+    "suit": "clubs",
+    "rank": "3",
+    "unicodeSymbol": "♣",
+    "url": "clubs/3c.svg"
+  },
+  {
+    "suit": "clubs",
+    "rank": "4",
+    "unicodeSymbol": "♣",
+    "url": "clubs/4c.svg"
+  },
+  {
+    "suit": "clubs",
+    "rank": "5",
+    "unicodeSymbol": "♣",
+    "url": "clubs/5c.svg"
+  },
+  {
+    "suit": "clubs",
+    "rank": "6",
+    "unicodeSymbol": "♣",
+    "url": "clubs/6c.svg"
+  },
+  {
+    "suit": "clubs",
+    "rank": "7",
+    "unicodeSymbol": "♣",
+    "url": "clubs/7c.svg"
+  },
+  {
+    "suit": "clubs",
+    "rank": "8",
+    "unicodeSymbol": "♣",
+    "url": "clubs/8c.svg"
+  },
+  {
+    "suit": "clubs",
+    "rank": "9",
+    "unicodeSymbol": "♣",
+    "url": "clubs/9c.svg"
+  },
+  {
+    "suit": "clubs",
+    "rank": "10",
+    "unicodeSymbol": "♣",
+    "url": "clubs/10c.svg"
+  },
+  {
+    "suit": "clubs",
+    "rank": "A",
+    "unicodeSymbol": "♣",
+    "url": "clubs/1c.svg"
+  },
+  {
+    "suit": "clubs",
+    "rank": "J",
+    "unicodeSymbol": "♣",
+    "url": "clubs/jc.svg"
+  },
+  {
+    "suit": "clubs",
+    "rank": "K",
+    "unicodeSymbol": "♣",
+    "url": "clubs/kc.svg"
+  },
+  {
+    "suit": "clubs",
+    "rank": "Q",
+    "unicodeSymbol": "♣",
+    "url": "clubs/qc.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "2",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/2d.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "3",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/3d.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "4",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/4d.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "5",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/5d.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "6",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/6d.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "7",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/7d.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "8",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/8d.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "9",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/9d.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "10",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/10d.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "A",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/1d.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "J",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/jd.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "K",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/kd.svg"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "Q",
+    "unicodeSymbol": "♦",
+    "url": "diamonds/qd.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "2",
+    "unicodeSymbol": "♥",
+    "url": "hearts/2h.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "3",
+    "unicodeSymbol": "♥",
+    "url": "hearts/3h.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "4",
+    "unicodeSymbol": "♥",
+    "url": "hearts/4h.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "5",
+    "unicodeSymbol": "♥",
+    "url": "hearts/5h.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "6",
+    "unicodeSymbol": "♥",
+    "url": "hearts/6h.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "7",
+    "unicodeSymbol": "♥",
+    "url": "hearts/7h.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "8",
+    "unicodeSymbol": "♥",
+    "url": "hearts/8h.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "9",
+    "unicodeSymbol": "♥",
+    "url": "hearts/9h.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "10",
+    "unicodeSymbol": "♥",
+    "url": "hearts/10h.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "A",
+    "unicodeSymbol": "♥",
+    "url": "hearts/1h.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "J",
+    "unicodeSymbol": "♥",
+    "url": "hearts/jh.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "K",
+    "unicodeSymbol": "♥",
+    "url": "hearts/kh.svg"
+  },
+  {
+    "suit": "hearts",
+    "rank": "Q",
+    "unicodeSymbol": "♥",
+    "url": "hearts/qh.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "2",
+    "unicodeSymbol": "♠",
+    "url": "spades/2s.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "3",
+    "unicodeSymbol": "♠",
+    "url": "spades/3s.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "4",
+    "unicodeSymbol": "♠",
+    "url": "spades/4s.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "5",
+    "unicodeSymbol": "♠",
+    "url": "spades/5s.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "6",
+    "unicodeSymbol": "♠",
+    "url": "spades/6s.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "7",
+    "unicodeSymbol": "♠",
+    "url": "spades/7s.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "8",
+    "unicodeSymbol": "♠",
+    "url": "spades/8s.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "9",
+    "unicodeSymbol": "♠",
+    "url": "spades/9s.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "10",
+    "unicodeSymbol": "♠",
+    "url": "spades/10s.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "A",
+    "unicodeSymbol": "♠",
+    "url": "spades/1s.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "J",
+    "unicodeSymbol": "♠",
+    "url": "spades/js.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "K",
+    "unicodeSymbol": "♠",
+    "url": "spades/ks.svg"
+  },
+  {
+    "suit": "spades",
+    "rank": "Q",
+    "unicodeSymbol": "♠",
+    "url": "spades/qs.svg"
+  }
+]
