@@ -1,8 +1,27 @@
-/card-game/
-├── index.html
-├── Card.js
-├── Deck.js
-├── Player.js
-├── Game.js
-├── game-table/
+card-game/
+├── index.html              # Entry point (demo or launcher)
+├── main.js                 # Loads a specific game and starts it
+├── cards/                  # SVGs and index.json for standard cards
+│   ├── index.json
+│   ├── back.svg
+│   ├── clubs/
+│   ├── diamonds/
+│   └── ...
+├── core/                   # Shared framework code
+│   ├── Card.js
+│   ├── Deck.js
+│   ├── Player.js
+│   ├── Game.js             # Abstract or base game class
+├── components/             # Web components
 │   └── GameTable.js
+├── games/                  # Game-specific logic
+│   ├── war/
+│   │   ├── WarGame.js
+│   │   └── war.html        # Optional test page
+│   ├── hearts/
+│   │   ├── HeartsGame.js
+│   │   └── ...
+│   └── uno/
+│       ├── UnoGame.js
+│       └── ...
+└── utils/                  # Optional helpers (e.g. shuffle, animation)

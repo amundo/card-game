@@ -1,21 +1,14 @@
-import { Deck } from './Deck.js'
-import { Player } from './Player.js'
-
 export class Game {
-  constructor(cardData, playerName = 'You') {
-    this.deck = new Deck(cardData)
-    this.deck.shuffle()
-    this.player = new Player(playerName)
-    this.player.drawFrom(this.deck, 5)
+  constructor(cardData, playerNames = []) {
+    this.cardData = cardData
+    this.players = playerNames.map(name => new Player(name))
   }
 
-  getState() {
-    return {
-      playerName: this.player.name,
-      hand: this.player.hand.map(card => ({
-        text: card.toString(),
-        svgUrl: card.svgUrl
-      }))
-    }
+  isGameOver() {
+    return this.players.some(p => p.hand.length === 0)
+  }
+
+  getWinner() {
+    return this.players.find(p => p.hand.length > 0)?.name ?? null
   }
 }
