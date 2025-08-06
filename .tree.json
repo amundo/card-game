@@ -1,0 +1,7 @@
+{
+  "exclude": [
+    "public/cards",
+    "cards/",
+    ".git"
+  ]
+}
