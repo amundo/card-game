@@ -3,7 +3,8 @@ title: A Card Game framework
 author: Patrick Hall
 ---
 
-Sites/Games/card-game
+<https://github.com/amundo/card-game>
+
 
 ```
 ├── public
